@@ -1,3 +1,6 @@
+# A11y Accessibility Educaiton Portal
+# CSCE 5430 Software Engineering 
+# Team 9 Accessibility Education Portal
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
